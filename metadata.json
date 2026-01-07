@@ -1,0 +1,5 @@
+{
+  "name": "LinguistAI - Advanced Language Detection & Translation",
+  "description": "A high-performance language detection tool powered by Gemini, featuring real-time dialect identification, confidence scoring, and multi-lingual translation capabilities.",
+  "requestFramePermissions": []
+}
